@@ -34,7 +34,7 @@ The project uses the German Credit dataset from OpenML (`credit-g`), containing 
 This is an educational project based on a small, historical dataset. Its predictions may not generalize to current applicants. It is not intended for real lending decisions.
 
 ## Author
-Add your name here.
+Nupur Dahiya
 
 ## Internship
 Machine Learning Internship — CodeAlpha
